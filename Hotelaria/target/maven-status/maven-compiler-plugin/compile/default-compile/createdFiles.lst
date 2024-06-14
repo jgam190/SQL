@@ -1,0 +1,5 @@
+com\mycompany\hotelaria\Hotelaria.class
+Dao\QuartoDAO.class
+Dao\HospedeDAO.class
+model\Quarto.class
+model\Hospede.class
